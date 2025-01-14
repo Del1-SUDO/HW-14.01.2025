@@ -1,0 +1,14 @@
+C:\Users\-\Desktop\HW 14.01\task10\bin\Debug\net9.0\task10.exe
+C:\Users\-\Desktop\HW 14.01\task10\bin\Debug\net9.0\task10.deps.json
+C:\Users\-\Desktop\HW 14.01\task10\bin\Debug\net9.0\task10.runtimeconfig.json
+C:\Users\-\Desktop\HW 14.01\task10\bin\Debug\net9.0\task10.dll
+C:\Users\-\Desktop\HW 14.01\task10\bin\Debug\net9.0\task10.pdb
+C:\Users\-\Desktop\HW 14.01\task10\obj\Debug\net9.0\task10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\-\Desktop\HW 14.01\task10\obj\Debug\net9.0\task10.AssemblyInfoInputs.cache
+C:\Users\-\Desktop\HW 14.01\task10\obj\Debug\net9.0\task10.AssemblyInfo.cs
+C:\Users\-\Desktop\HW 14.01\task10\obj\Debug\net9.0\task10.csproj.CoreCompileInputs.cache
+C:\Users\-\Desktop\HW 14.01\task10\obj\Debug\net9.0\task10.dll
+C:\Users\-\Desktop\HW 14.01\task10\obj\Debug\net9.0\refint\task10.dll
+C:\Users\-\Desktop\HW 14.01\task10\obj\Debug\net9.0\task10.pdb
+C:\Users\-\Desktop\HW 14.01\task10\obj\Debug\net9.0\task10.genruntimeconfig.cache
+C:\Users\-\Desktop\HW 14.01\task10\obj\Debug\net9.0\ref\task10.dll
